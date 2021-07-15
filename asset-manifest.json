@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jostarprogramming/static/css/main.4b54c8a7.chunk.css",
+    "main.js": "/jostarprogramming/static/js/main.cb16888b.chunk.js",
+    "main.js.map": "/jostarprogramming/static/js/main.cb16888b.chunk.js.map",
+    "runtime-main.js": "/jostarprogramming/static/js/runtime-main.b22221ba.js",
+    "runtime-main.js.map": "/jostarprogramming/static/js/runtime-main.b22221ba.js.map",
+    "static/js/2.3b53ae5e.chunk.js": "/jostarprogramming/static/js/2.3b53ae5e.chunk.js",
+    "static/js/2.3b53ae5e.chunk.js.map": "/jostarprogramming/static/js/2.3b53ae5e.chunk.js.map",
+    "static/js/3.10015d90.chunk.js": "/jostarprogramming/static/js/3.10015d90.chunk.js",
+    "static/js/3.10015d90.chunk.js.map": "/jostarprogramming/static/js/3.10015d90.chunk.js.map",
+    "index.html": "/jostarprogramming/index.html",
+    "static/css/main.4b54c8a7.chunk.css.map": "/jostarprogramming/static/css/main.4b54c8a7.chunk.css.map",
+    "static/js/2.3b53ae5e.chunk.js.LICENSE.txt": "/jostarprogramming/static/js/2.3b53ae5e.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jostarprogramming/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b22221ba.js",
+    "static/js/2.3b53ae5e.chunk.js",
+    "static/css/main.4b54c8a7.chunk.css",
+    "static/js/main.cb16888b.chunk.js"
+  ]
+}
